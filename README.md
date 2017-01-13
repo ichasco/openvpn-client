@@ -8,6 +8,6 @@ Carpeta easy-rsa -> /etc/openvpn/easy-rsa
 
 Para ejecutarlo:
 
-./cliente.sh <nombre_cliente> <IP>
+./cliente.sh nombre_cliente
 
 Este script es parte del tutorial: https://blog.ichasco.com/openvpn-instalar-configurar-servidor-vpn/
